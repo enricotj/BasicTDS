@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 57286cbd91cb45144a8cf4cffc0cc977
+timeCreated: 1518503255
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - _playerPrefab: {fileID: 1838120614958410, guid: 5f370fef4b7eafd45b6f2752b21c2f80,
+      type: 2}
+  - _enemyPrefab: {fileID: 1796128527661212, guid: f6af5ffab08bdcf4d8bc57a9e033ce04,
+      type: 2}
+  - _tilePrefab: {fileID: 1998893734665576, guid: 728f84ee4c19f3940b64298bc149c948,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

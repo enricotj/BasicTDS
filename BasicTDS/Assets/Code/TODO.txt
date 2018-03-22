@@ -1,0 +1,56 @@
+Shooting
+ - Bullet Basic Path
+ - Bullet Curved Path
+ - Bullet Spread
+ - Instant Bullet
+
+Performance:
+- Object Pooling
+	- Tile Pool Distribution (64x64 window):
+		- 4x0.012 (slants) ... ~200
+		- 4x0.016 (edges)  ... ~270
+		- 0.16    (filled) ... ~660
+	- Max enemies on screen? (64x64 window):
+- Test Monaco Line of Sight Polygon Collider Idea
+
+Base Actor
+ - Movement
+	 - Speed
+	 - Run Lerp
+	 - Turn Lerp
+ - Attack Speed
+ - Attack Knockback
+
+Extra Stats
+ - Crit Multiplier?
+ - Ability Cooldown Reduction?
+ - Ability Range?
+
+Game Feel
+ - Particles
+ - Screen Shake
+ - Sounds
+ - Damage Numbers
+ - 
+
+Art
+
+Items
+
+Towers
+
+Risk of Rain Theme Breakdown:
+
+Players:			Passengers Aboard the Ship
+Enemies:			Aliens or Planet Inhabitants
+Items:				Shipments from the Ship
+Boss (Providence):		
+
+
+Game Breakdown:
+
+Players:			Lost souls/spirits trying to ascend to something greater, each with their own motivations and desires (imortality, power, knowledge)
+Bosses:				Manifestations of archetypal powers, emotions, forces, etc. (seven sins/virtues, chaos/order)
+Enemies:			Servants of the aforementioned archetypes
+Goal:				Power
+Question:			Are you right to take and hold that power for yourself? Can you handle it?
